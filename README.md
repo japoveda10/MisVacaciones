@@ -1,4 +1,6 @@
-# PUNAJUT
+# Mis Vacaciones
+
+## Nombre de Equipo: Punajut
 
 ## Miembros:
 Nombre                | Código | Rol | MV | Login | 
